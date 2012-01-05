@@ -33,3 +33,5 @@ http://ilikestuffblog.com/
 brian@morearty.org
 
 @BMorearty on Twitter and GitHub
+
+Cartoons by Brian, Rosey, and Elizabeth
