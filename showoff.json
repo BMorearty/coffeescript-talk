@@ -1,0 +1,12 @@
+{
+  "name": "CoffeeScript for Rubyists",
+  "description": "A talk about some favorite syntax goodies that make CoffeeScript appealing to Ruby programmers. By Brian Morearty, Jan. 5, 2012",
+  "sections": [
+    "01-intro",
+    "02-install",
+    "03-barista",
+    "04-migration",
+    "05-rubyists",
+    "06-conclusion"
+  ]
+}
