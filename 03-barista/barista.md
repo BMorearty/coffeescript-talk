@@ -49,5 +49,6 @@
 # Barista Deploy Options
 
 * Default: generate on the fly in development. Deploy .js files.
-* Add `rake barista:brew` to your Capistrano script.
+* Add `therubyracer` to your Gemfile and add `rake barista:brew`
+  to your Capistrano script.
 * Install `therubyracer` on prod and generate on the fly there.
