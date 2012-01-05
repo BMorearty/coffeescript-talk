@@ -22,17 +22,13 @@ https://github.com/Sutto/barista
 
 !SLIDE
 
-# These Slides
-
-http://bmorearty.github.com/coffeescript-talk/
-
-!SLIDE
-
 # Thank You.
 
 Brian Morearty
 
 http://ilikestuffblog.com/
+
+**http://bmorearty.github.com/coffeescript-talk/**
 
 brian@morearty.org
 
