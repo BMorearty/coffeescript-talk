@@ -217,6 +217,8 @@ compiles to:
 
 !SLIDE execute smaller center
 
+![a ternary of terns](../images/terns.jpg)
+
 # No Ternary Operator
 
 ## But `if`/`then`/`else` Is an Expression

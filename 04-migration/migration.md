@@ -18,3 +18,9 @@
 Think hard.
 
 ![think hard](../images/thinking.jpg)
+
+!SLIDE subsection
+
+# 3 SECOND INTERMISSION
+
+## Who's Tired?
