@@ -15,9 +15,8 @@ h1, h2 {
   box-shadow: 10px 10px 30px #444;
   text-shadow: -1px -1px 2px #111;
 }
-h1, h2, .content {
-  /* margin-left: 50px;*/
-  /* margin-right: 50px;*/
+.full-page p {
+  margin: 0;
 }
 .content {
   color: dimgray;

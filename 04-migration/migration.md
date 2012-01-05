@@ -24,3 +24,7 @@ Think hard.
 # 3 SECOND INTERMISSION
 
 ## Who's Tired?
+
+!SLIDE full-page center
+
+![lucerne](../images/lucerne-watercolor.jpg)
